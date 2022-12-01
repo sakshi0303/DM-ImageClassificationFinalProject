@@ -31,3 +31,6 @@ Course Name: Computer Sci-MS Non Thesis (2st SEM)
     -Artificial Neural Networks
  
  -More on BlogPost: https://machinelearningprinciples.blogspot.com/2022/11/image-classifier.html
+ 
+ -Video Clip(TimeLimit ~1 min) : https://youtu.be/uphLregEmGs 
+ 
