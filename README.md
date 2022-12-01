@@ -11,7 +11,8 @@ Contact No.: +1 3153851203
 
 Course Name: Computer Sci-MS Non Thesis (2st SEM)
 
-- Compare performance between
+  -Compare performance between
+
     -CNN with transfer Learning,
 
     -CNN without Transfer Learning,
