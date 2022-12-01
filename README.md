@@ -35,3 +35,5 @@ Course Name: Computer Sci-MS Non Thesis (2st SEM)
  
  -Video Clip(TimeLimit ~1 min) : https://youtu.be/uphLregEmGs 
  
+ -Kaggle Jupiter Notebook Upload: https://www.kaggle.com/code/srvsakshi03/imageclassifierperformancemeasure
+ 
